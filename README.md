@@ -5,9 +5,12 @@ This project is focused on performing sentiment analysis on Twitter data. Sentim
 
 To get started with the project, follow these steps:
 
-Clone the repository
-Navigate to the project directory
-Install the dependencies specified in the: Twitter_Sentimental_Analysis.ipynb
-Acquire the raw data(e.g., ).
-Run the data preprocessing scripts in the notebooks directory to clean and process the data.
-Execute the model training scripts in the notebooks directory to train the sentiment analysis model.
+1. Clone the repository
+2. Navigate to the project directory
+3. Install the dependencies specified in the: Twitter_Sentimental_Analysis.ipynb
+4. Acquire the raw data(e.g., Twitter_Data.csv).
+5. Open and run the Twitter_Sentimental_Analysis.ipynb file.
+6. Execute the model training scripts in the notebooks directory to train the sentiment analysis model.
+
+# Contributing
+Contributions to this project are welcome. If you find any issues or have ideas for improvements, please open an issue or submit a pull request. Make sure to follow the existing coding style and include tests for new functionalities.
